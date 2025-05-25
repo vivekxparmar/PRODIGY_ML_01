@@ -15,8 +15,8 @@ This project focuses on predicting the **SalePrice** of homes using just 6 core 
 - Python 🐍  
 - Pandas & NumPy  
 - scikit-learn  
-- Jupyter Notebook / Python script  
-- Ames Housing Dataset
+- Google Colab 
+- Dataset from Kaggle
 
 ---
 
