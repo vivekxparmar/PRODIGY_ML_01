@@ -1,18 +1,18 @@
-# 🏠 House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
 A simple yet effective machine learning project that predicts house prices based on key features from the Ames Housing dataset using Linear Regression.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting the **SalePrice** of homes using just 6 core features. It demonstrates how minimal, well-preprocessed data can produce valuable predictions with a linear model.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-- Python 🐍  
+- Python
 - Pandas & NumPy  
 - scikit-learn  
 - Google Colab 
@@ -20,7 +20,7 @@ This project focuses on predicting the **SalePrice** of homes using just 6 core 
 
 ---
 
-## 🧠 Features Used
+## Features Used
 
 - `GrLivArea` – Above ground living area (sq ft)  
 - `BedroomAbvGr` – Number of bedrooms above ground  
@@ -31,7 +31,7 @@ This project focuses on predicting the **SalePrice** of homes using just 6 core 
 
 ---
 
-## 🧰 Steps Involved
+## Steps Involved
 
 1. **Load and preprocess data**
    - Drop rows with missing `SalePrice`
@@ -53,15 +53,15 @@ This project focuses on predicting the **SalePrice** of homes using just 6 core 
 
 ---
 
-## 📊 Results
+## Results
 
-- 📈 Achieved strong validation results using RMSE
-- 🧾 Generated clean `submission.csv` with predicted house prices
-- 🔁 Ready for further improvement via Ridge, Lasso, or Ensemble models
+- Achieved strong validation results using RMSE
+- Generated clean `submission.csv` with predicted house prices
+- Ready for further improvement via Ridge, Lasso, or Ensemble models
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 
 | File               | Description                            |
 |--------------------|----------------------------------------|
@@ -72,7 +72,7 @@ This project focuses on predicting the **SalePrice** of homes using just 6 core 
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 Feel free to fork this repo, open issues, or reach out for collaboration.  
 If you like this project, give it a ⭐️ and share your feedback!
